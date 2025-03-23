@@ -1,2 +1,6 @@
-# Sports-Attedance-Managment
-The Sports Attendance Management System streamlines attendance tracking for sports activities. It includes Coordinator Login for managing records, Student Login to mark attendance and download certificates, and Faculty Login to view attendance. This system ensures accuracy, reduces paperwork, and simplifies attendance management efficiently. 
+# Sports-Attedance-Managment 
+Here’s a Full Stack Sports Attendance Management System using PHP, MySQL, HTML, CSS, and JavaScript:
+Coordinator Login: Manage attendance, oversee students, and generate reports.
+Student Login & Certificate Download: Mark attendance and download certificates.
+Faculty Login: View and verify attendance.
+This system ensures accuracy, reduces paperwork, and streamlines attendance tracking. 
